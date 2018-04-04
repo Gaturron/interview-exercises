@@ -1,0 +1,56 @@
+Hi Fernando,
+
+Many thanks for applying to our Software Engineer (Intermediate & Senior) position and for your interest in XXX. We would like to know a bit more about you, and we’d also like you to complete 2 programming exercises.
+
+When you’re done, please zip up your source files and send them to us, and let us know how long it took you. Please don’t share your solution publicly.
+
+Have fun!
+
+About you
+
+Tell us in a few sentences:
+
+What was the last thing you really geeked out about?
+If we were to ask your work colleagues to describe you, what would they say?
+What type of language do you prefer to write complex algorithms in and why?
+Programming exercises
+
+Please complete the two exercises below. Here are the ground rules:
+
+You can choose any programming language (we’d suggest choosing your strongest)
+You can use the internet, but please don’t look up or copy an existing solution—we want to see how you work.
+This isn’t a race, but please track your time so you can tell us how long it took you
+Don’t spend any longer than 90 minutes total
+Exercise 1
+
+Write a function that will merge two arrays of sorted integers in a linear fashion. The output should be a sorted array containing all the elements from both input arrays, including any duplicates.
+
+For example, given these two arrays as arguments:
+
+[1,1,3,5], [1,2,3,4]
+
+Your function should return:
+
+[1,1,1,2,3,3,4,5]
+
+Exercise 2
+Write a library for generating random PIN codes. You probably know what a PIN code is; it’s a short sequence of numbers, often used as a passcode for bank cards.
+
+Here are the requirements:
+
+The library should export a function that returns a batch of 1,000 PIN codes in random order
+Each PIN code in the batch should be unique
+Each PIN should be:
+4 digits long
+Two consecutive digits should not be the same (e.g. 1156 is invalid)
+Three consecutive digits should not be incremental (e.g. 1236 is invalid)
+The library should have automated tests.
+We look forward to receiving your solution.
+
+Kind regards,​
+
+XXXX
+Talent Manager, People & Culture
+
+
+P +64 9 280 3045
